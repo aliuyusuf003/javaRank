@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author PC
  */
-public class ChallengeOne {
+public class Second {
 
     public static void main(String[] args) throws IOException {
       Scanner scanner = new Scanner(System.in);       
