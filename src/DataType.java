@@ -13,7 +13,7 @@ import java.util.*;
  *
  * @author PC
  */
-public class ChallengeOne {
+public class DataType {
 
   
      public static void main(String[] args) throws IOException {
